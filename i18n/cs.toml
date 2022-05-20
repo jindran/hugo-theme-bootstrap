@@ -1,0 +1,198 @@
+[404_title]
+other = "Copak se stalo?! Stránka nenalezena."
+
+[404_info]
+other = "Zdá se, že nemůžeme najít stránku, kterou hledáte."
+
+[about_me]
+other = "O mě"
+
+[alipay]
+other = "Alipay"
+
+[all]
+other = "Vše"
+
+[archives]
+other = "Archiv"
+
+[button_copy_url]
+other = "Zkopíruj odkaz"
+
+[button_reload]
+other = "Obnovit"
+
+[button_social_share]
+other = "Sdílet"
+
+[button_submit]
+other = "Submit"
+
+[buy_me_a_coffee]
+other = "Kup mi kávu"
+
+[categories]
+other = "Kategorie"
+
+[color_blue]
+other = "Modrá"
+
+[color_blue_gray]
+other = "Modrošedá"
+
+[color_brown]
+other = "Hnědá"
+
+[color_cyan]
+other = "Tyrkysová"
+
+[color_green]
+other = "Zelená"
+
+[color_indigo]
+other = "Indigově modrá"
+
+[color_orange]
+other = "Oranžová"
+
+[color_pink]
+other = "Růžová"
+
+[color_purple]
+other = "Fialová"
+
+[color_red]
+other = "Červená"
+
+[color_teal]
+other = "Modrozelená"
+
+[color_yellow]
+other = "Žlutá"
+
+[comments]
+other = "Komentáře"
+
+[contact_name]
+other = "Jméno"
+
+[contact_email]
+other = "Email"
+
+[contact_email_help]
+other = "Nikdy nebudeme šířit Vaší emailovou adresu"
+
+[contact_file]
+other = "Soubor"
+
+[contact_subject]
+other = "Předmět"
+
+[contact_message]
+other = "Zpráva"
+
+[copyright]
+other = "Copyright"
+
+[featured_posts]
+other = "Doporučené příspěvky"
+
+[font_size]
+other = "Velikost písmen"
+
+[go_back]
+other = "Zpět"
+
+[home]
+other = "Domů"
+
+[language]
+other = "Jazyk"
+
+[liberapay]
+other = "Liberapay"
+
+[load_more]
+other = "Načíst další"
+
+[mode]
+other = "Mód"
+
+[offline_title]
+other = "Škoda. Jste offline."
+
+[offline_info]
+other = "Zdá se, že máte problém s připojením. Zkontrolujte prosím stav vaší sítě."
+
+[pagination_title]
+other = "Page {{ .PageNumber }}"
+
+[palette]
+other = "Barvy"
+
+[patreon]
+other = "Patreon"
+
+[paypal]
+other = "Paypal"
+
+[post_count]
+one = "{{ .Count }} post in total"
+other = "{{ .Count }} posts in total"
+
+[post_date]
+other = "vytvořeno dne {{ .createdOn }}{{ with .updatedOn }}, updated on {{ . }}{{ end }}."
+
+[read_more]
+other = "Číst další"
+
+[reading_time]
+other = "{{ .ReadingTime }} minut čtení"
+
+[recent_posts]
+other = "Poslední příspěvky"
+
+[related_posts]
+other = "Související příspěvky"
+
+[repo_action_edit]
+other = "Upravit stránku"
+
+[repo_action_view]
+other = "Zobrazit zdrojový kód"
+
+[repo_title]
+other = "Repository"
+
+[search]
+other = "Hledat"
+
+[search_missing_keywords]
+other = „Zadejte klíčová slova pro vyhledávání"
+
+[search_no_results]
+other = "Nenalezeno"
+
+[search_stat]
+other = "Nelzeno {{ .Total }} výsledků"
+
+[series]
+other = "Seriály"
+
+[settings]
+other = "Nastavení"
+
+[table_of_contents]
+other = "Obsah"
+
+[tags]
+other = "Tagy"
+
+[tipeee]
+other = "Tipy"
+
+[try_again]
+other = "Opakuj pokus"
+
+[wechat]
+other = "WeChat"
