@@ -168,13 +168,13 @@ other = "Repository"
 other = "Hledat"
 
 [search_missing_keywords]
-other = „Zadejte klíčová slova pro vyhledávání"
+other = "Zadejte klíčová slova pro vyhledávání"
 
 [search_no_results]
 other = "Nenalezeno"
 
 [search_stat]
-other = "Nelzeno {{ .Total }} výsledků"
+other = "Nalezeno {{ .Total }} výsledků"
 
 [series]
 other = "Seriály"
